@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="impossible的完整形式是i'm possible";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
